@@ -19,7 +19,10 @@ print(b.islower()) # all string is lowercase then output is true
 print(b.isprintable()) # all the values within the given string are printable
 y= " "
 print(y.isspace()) # True only and only if the string contains white spaces, else returns False.
+<<<<<<< HEAD
 
+=======
+>>>>>>> 5ef8e11e9a7dd09f7d6c7643ab7a593c971f8fb2
 t = "Work from Home"
 print(t.istitle()) #first character is capitalized
 print(t.isupper()) # all character is upper case then true else return false
