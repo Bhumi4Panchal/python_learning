@@ -1,6 +1,7 @@
-age = 21
-
-if age >= 18:
+a = int(input("Enter the age :"))
+print("your age is :",a)
+#conditional operators > , < , == , >= , <= , !=
+if a >= 18:
     print("You are eligible to vote!")
 else:
     print("You are not eligible to vote!")

@@ -1,4 +1,4 @@
-'''x = "bhumi ... panchal"
+x = "bhumi ... panchal"
 print(x.upper()) # string is immutable
 print(x.lower())
 print(x.rstrip("."))
@@ -19,7 +19,7 @@ print(b.islower()) # all string is lowercase then output is true
 print(b.isprintable()) # all the values within the given string are printable
 y= " "
 print(y.isspace()) # True only and only if the string contains white spaces, else returns False.
-'''
+
 t = "Work from Home"
 print(t.istitle()) #first character is capitalized
 print(t.isupper()) # all character is upper case then true else return false
