@@ -1,0 +1,6 @@
+a = input("Enter the no1 :")
+b = input("Enter the no2 :")
+print ("Addition is ",int(a)+int(b) )
+print ("Subtraction is ",int(a)-int(b) )
+print ("Multiplication is ",int(a)*int(b) )
+print ("Division is ",int(a)/int(b) )
