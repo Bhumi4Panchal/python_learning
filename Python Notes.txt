@@ -1,0 +1,54 @@
+1. what is python??
+-> Python is an interpreted, object-oriented, high-level programming language with dynamic semantics.
+
+2. type of modules?
+-> Built In modules : jo lana nhi padta vo 
+-> External modules : vo lane padte hai or run time download thy
+
+NOTE : varibles name is case sentivie.
+NOTE : \n to use newline problem print commend use.
+
+3. Escape Sequence Characters:
+-> print("this will \"execute\")
+\" is use output "output"
+
+4. print statement use::
+
+print(object(s), sep = "other" , end = "other", file = "other")
+
+5. list : is collectin of difference data type. lists of item.
+6. tuple : is immutable . can't be change. collectin of item but its can't be change.
+7. Dictionary : is collection of key-value pairs
+
+8. Global varibles: Variables that are created outside of a function are known as global variables.
+
+- Global variables can be used by everyone, both inside of functions and outside.
+
+- To create a global variable inside a function, you can use the global keyword.
+
+9. Typecasting : The conversion of one data type into other data type is known as typecasting.
+
+types of Type Casting in Python:
+
+Python Implicit Type Conversion :  Python converts the datatype into another datatype automatically. Users don’t have to involve in this process. like a = 7
+print(type(a)) 
+
+Python Explicit Type Conversion : Python needs user involvement to convert the variable data type into the required data type. 
+
+methods like :: int(), str(), float() ,ord(), hex(),
+
+len : used for length any para.
+
+10 . Python string methods is a collection of in-built Python functions that operates on lists.
+
+Note: All string methods returns new values. They do not change the original string.
+
+11. find method - is find character and not find character then return -1.
+
+12. Index method - is also use find method like that but not character in string then error show.
+
+13. isalpha : If any other characters or punctuations or numbers(0-9) are present, then it returns False.
+
+14. isalnum : If any other characters or punctuations are present, then it returns False.
+
+NOTE : for loop meh "space" ko indentation
